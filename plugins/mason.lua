@@ -6,7 +6,7 @@ return {
         "stylua",
         "shellcheck",
         "shfmt",
-        "eslint-lsp",
+        "eslint_d",
         "json-lsp",
         "prettierd",
         "lua-language-server",
