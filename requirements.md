@@ -1,5 +1,6 @@
 - [ ] git for windows
 - [ ] chocolatey
+- [ ] choco install mingw
 - [ ] choco install fd
 - [ ] choco install ripgrep
 - [ ] choco install lazygit
@@ -8,7 +9,7 @@
 NerdFont:
 - [ ] RobotoMono
 - [ ] Mononoki
-- [ ] JetBrainsMono
-
+- [X] JetBrainsMono
+- [X] GohuFont 11 Nerd Font
 
 
