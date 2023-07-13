@@ -8,3 +8,4 @@ vim.keymap.set("n", "<leader>gS", "<cmd>Neotree git_status toggle<cr>", { desc =
 vim.keymap.set("n", "<leader>ev", "<cmd>Neotree<bar>e $HOME/AppData/Local/nvim<cr>", { desc = "Open nvim dir" })
 vim.keymap.set("n", "<leader>ep", "<cmd>Neotree<bar>e D:/projects/<cr>", { desc = "Open projects dir" })
 vim.keymap.set("n", "<leader>ed", "<cmd>cd %:p:h<cr>", { desc = "Set cwd" })
+vim.keymap.set("n", "<leader>pv", "<cmd>Ex<cr>", { desc = "File Explorer" })

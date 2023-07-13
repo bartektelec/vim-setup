@@ -25,7 +25,6 @@ return {
         "markdownlint",
         "prisma-language-server",
         "rust-analyzer",
-        "rustfmt",
         "sql-formatter",
         "svelte-language-server",
         "tailwindcss-language-server",
